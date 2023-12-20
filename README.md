@@ -1,3 +1,4 @@
+<h1 align="center">Hi there👋</h1>
 <h3 align="center">I'm Alex, A passionate backend developer.</h3>
 
 
