@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **😄 Fun fact: Object.prototype.toString.call() === '[object Undefined]' 😱**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
