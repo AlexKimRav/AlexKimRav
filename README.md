@@ -1,8 +1,7 @@
 <h3 align="center">I'm Alex, A passionate backend developer.</h3>
 
-- 🌱 I’m currently learning **go Fiberr**
 
-- 💬 Ask me about **Go,Java, Javascript,Vue**
+- 💬 Ask me about **Go, Java, Javascript, Vue**
 
 - 📫 How to reach me **kimalexdev@gmail.com**
 
