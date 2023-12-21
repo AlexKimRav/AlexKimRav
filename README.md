@@ -2,11 +2,11 @@
 <h3 align="center">I'm Alex, A passionate backend developer.</h3>
 
 
-- 💬 Ask me about **Go, Java, Javascript, Vue**
+- 💬 Ask me about **Go, Java**
 
 - 📫 How to reach me **kimalexdev@gmail.com**
 
-- ⚡ Fun fact **😄 Fun fact: Object.prototype.toString.call() === '[object Undefined]' 😱**
+- ⚡ Fun fact **Object.prototype.toString.call() === '[object Undefined]' 😱**
 
 <p align="left">
 </p>
